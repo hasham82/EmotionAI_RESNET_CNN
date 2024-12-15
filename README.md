@@ -14,4 +14,5 @@ Combined Prediction:
 
 The two models were integrated to make a combined emotion prediction. First, the Key Facial Points Detection model identified key landmarks, and then the Facial Expression model classified the emotion based on the detected facial features.
 This combination enabled the AI to accurately recognize and interpret emotions from facial expressions, with the key points serving as crucial input for the emotion classification task.
-Overall, the project aimed to build a robust system that could understand human emotions through facial cues, which can be applied in various fields such as human-computer interaction, healthcare, security, and customer service.
+
+The project aimed to build a robust system that could understand human emotions through facial cues, which can be applied in various fields such as human-computer interaction, healthcare, security, and customer service.
